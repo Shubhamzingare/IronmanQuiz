@@ -3,4 +3,4 @@
 It is a fun game.
 </p>
 
-<h4 style="color: green">One can play this game by clicking link given in the right corner</h4>
+<h4 style="color:Orange;">One can play this game by clicking link given in the right corner</h4>
